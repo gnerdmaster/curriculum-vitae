@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "e1af0b6c-3a5b-11ec-82a8-0242ac130003",
+      "username": "username",
+      "email": "email@example.com",
+      "phone": "+123456789",
+      "password": "password",
+      "firstName": "firstName",
+      "lastName": "lastName",
+      "roles": ["role1", "role2"],
+      "status": "status",
+      "createdDate": "2022-01-01T00:00:00.000Z",
+      "modifiedDate": "2022-01-01T00:00:00.000Z",
+      "lastLoginDate": "2022-01-01T00:00:00.000Z",
+      "loginCount": 0,
+      "skills": [
+        {
+          "id": "e1af0b6c-3a5b-11ec-82a8-0242ac130003",
+          "name": "Habilidad 1",
+          "level": 1,
+          "status": "COMPLETED",
+          "progress": 100
+        }
+      ]
+    }
+  ]
+}
