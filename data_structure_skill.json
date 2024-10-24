@@ -1,0 +1,62 @@
+{
+  "skill": [
+    {
+      "id": "e1af0b6c-3a5b-11ec-82a8-0242ac130003",
+      "name": "Habilidad 1",
+      "description": "Habilidad 1 - Descripción de la habilidad 1",
+      "topics": [
+        {
+          "id": "7eaf0b6c-6beb-11ec-82a8-0242ac130011",
+          "description": "Tema 1 - Descripción del tema 1",
+          "subtopics": [
+            {
+              "id": "7eaf0b6c-6beb-11ec-82a8-0242ac130012",
+              "description": "Subtema 1 - Descripción del subtema 1",
+              "tasks": [
+                {
+                  "id": "7eaf0b6c-6beb-11ec-82a8-0242ac130013",
+                  "description": "Tarea 1 - Descripción de la tarea 1",
+                  "subtasks": [
+                    {
+                      "id": "7eaf0b6c-6beb-11ec-82a8-0242ac130014",
+                      "description": "Subtarea 1 - Descripción de la subtarea 1",
+                      "status": "COMPLETED",
+                      "startDate": "2022-01-01T00:00:00.000Z",
+                      "endDate": "2022-01-01T00:00:00.000Z",
+                      "modifiedDate": "2022-01-01T00:00:00.000Z"
+                    }
+                  ],
+                  "status": "COMPLETED",
+                  "startDate": "2022-01-01T00:00:00.000Z",
+                  "endDate": "2022-01-01T00:00:00.000Z",
+                  "modifiedDate": "2022-01-01T00:00:00.000Z"
+                }
+              ],
+              "status": "COMPLETED",
+              "startDate": "2022-01-01T00:00:00.000Z",
+              "endDate": "2022-01-01T00:00:00.000Z",
+              "modifiedDate": "2022-01-01T00:00:00.000Z"
+            }
+          ],
+          "status": "COMPLETED",
+          "startDate": "2022-01-01T00:00:00.000Z",
+          "endDate": "2022-01-01T00:00:00.000Z",
+          "modifiedDate": "2022-01-01T00:00:00.000Z"
+        }
+      ],
+      "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"],
+      "level": 1,
+      "status": "COMPLETED",
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-01-01T00:00:00.000Z",
+      "createdDate": "2022-01-01T00:00:00.000Z",
+      "modifiedDate": "2022-01-01T00:00:00.000Z",
+      "progress": 100,
+      "priority": 0,
+      "resources": ["Recurso 1", "Recurso 2", "Recurso 3"],
+      "comments": ["Comentario 1", "Comentario 2", "Comentario 3"],
+      "timeEstimated": 0,
+      "timeSpent": 0
+    }
+  ]
+}
